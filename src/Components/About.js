@@ -7,6 +7,7 @@ class About extends Component {
 
     const name = this.props.data.name;
     const profilepic = "images/" + this.props.data.image;
+    const mapspic = "images/" + this.props.data.maps;
     const bio = this.props.data.bio;
     const street = this.props.data.address.street;
     const city = this.props.data.address.city;
@@ -24,11 +25,11 @@ class About extends Component {
               <img
                 className="profile-pic"
                 src={profilepic}
-                alt="Nordic Giant Profile Pic"
+                alt="Espressoteric profile pic"
               />
             </div>
             <div className="nine columns main-col">
-              <h2>About Me</h2>
+              <h2>About Us</h2>
 
               <p>{bio}</p>
               <div className="row">
@@ -46,15 +47,24 @@ class About extends Component {
                     <span>{phone}</span>
                     <br />
                     <span>{email}</span>
+                    <br />
+                    <br />
+                    <span>Hours:</span>
+                    <br />
+                    <span>Monday-Friday: 9am-5pm</span>
+                    <br />
+                    <span>Saturday: 10am-2pm</span>
+                    <br />
+                    <span>Sunday: Closed</span>
                   </p>
                 </div>
-                <div className="columns download">
-                  <p>
-                    <a href={resumeDownload} className="button">
-                      <i className="fa fa-download"></i>Download Resume
-                    </a>
-                  </p>
-                </div>
+                <div>
+                <img
+                className="pic"
+                src={mapspic}
+                alt="Espressoteric profile pic"
+              />
+              </div>
               </div>
             </div>
           </div>
