@@ -122,10 +122,8 @@ class Contact extends Component {
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida
-                      nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                      quis bibendum auctor, nisi elit consequat ipsum
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      Check out our newest coffee types we are working on. We are continuesly adding new types and flavors to make your experience even better.
+                      <a href="./">http://twitter.com</a>
                     </span>
                     <b>
                       <a href="./">2 Days Ago</a>
@@ -133,11 +131,9 @@ class Contact extends Component {
                   </li>
                   <li>
                     <span>
-                      Sed ut perspiciatis unde omnis iste natus error sit
-                      voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      Hey everyone, we finally started selling our own coffee. We are now open for business and would love to have you join us. Go check it out here:
+                      
+                      <a href="./">http://twitter.com</a>
                     </span>
                     <b>
                       <a href="./">3 Days Ago</a>

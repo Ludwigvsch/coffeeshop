@@ -43,7 +43,7 @@ class App extends Component {
         <Header data={this.state.Data.main} />
         <ShowSlideshow/>
         <About data={this.state.Data.main} />
-        <Resume data={this.state.Data.resume} />
+        
         <Portfolio data={this.state.Data.portfolio} />
         <Contact data={this.state.Data.main} />
         <Footer data={this.state.Data.main} />
