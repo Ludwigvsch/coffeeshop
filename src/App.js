@@ -4,7 +4,6 @@ import "./App.css";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import About from "./Components/About";
-import Resume from "./Components/Products";
 import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
 import ShowSlideshow from "./Components/SlideShow";
@@ -43,7 +42,6 @@ class App extends Component {
         <Header data={this.state.Data.main} />
         <ShowSlideshow/>
         <About data={this.state.Data.main} />
-        
         <Portfolio data={this.state.Data.portfolio} />
         <Contact data={this.state.Data.main} />
         <Footer data={this.state.Data.main} />

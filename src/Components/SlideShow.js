@@ -31,7 +31,7 @@ class ShowSlideshow extends React.Component {
                     showNavs={true}
                     loop={true}
                     autoplay={true}
-                    autoplayInterval={5000}
+                    autoplayInterval={5}
                   showThumbs={true}
 
 
