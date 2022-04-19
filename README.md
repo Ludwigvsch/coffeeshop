@@ -13,5 +13,5 @@ npm start
 npm run build
 ```
 
-###website
+### 4. Demo
 https//ludwigvsch.github.io/coffeeshop/
