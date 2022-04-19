@@ -7,14 +7,14 @@ class Portfolio extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const projects = this.props.data.projects.map(function (projects) {
-      let projectImage = "images/portfolio/" + projects.image;
+    const products = this.props.data.products.map(function (products) {
+      let projectImage = "images/portfolio/" + products.image;
 
       return (
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
-            <div style={{ textAlign: "center" }}>{projects.title}</div>
+            <Zmage alt={products.title} src={projectImage} />
+            <div style={{ textAlign: "center" }}>{products.title}</div>
           </div>
         </div>
       );
@@ -25,13 +25,13 @@ class Portfolio extends Component {
         <Fade left duration={1000} distance="40px">
           <div className="row">
             <div className="twelve columns collapsed">
-              <h1>Check Out Some of My Works.</h1>
+              <h1>Our main products created with love...</h1>
 
               <div
                 id="portfolio-wrapper"
                 className="bgrid-quarters s-bgrid-thirds cf"
               >
-                {projects}
+                {products}
               </div>
             </div>
           </div>

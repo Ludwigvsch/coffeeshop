@@ -59,11 +59,7 @@ class About extends Component {
                   </p>
                 </div>
                 <div>
-                <img
-                className="pic"
-                src={mapspic}
-                alt="Espressoteric profile pic"
-              />
+                <iframe src={"https://www.google.com/maps/embed/v1/place?q=place_id:ChIJu18GY0m7woARJwBGwsa3N88&key=AIzaSyAtDm3Pvt2kZFB638hnHi2HRCW7hYP-6-M"} width="100%" height="450" frameborder="0" style={{border:0}} allowfullscreen></iframe>
               </div>
               </div>
             </div>
