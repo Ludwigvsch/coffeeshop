@@ -2,10 +2,10 @@
   "main": {
     "name":"Espressoteric",
   
-    "description":"We love making the best coffee for our community around Westwood and especially welcome UCLA students with a student discount for coffee",
+    "description":"We love making the best coffee for our community around Westwood and especially welcome UCLA students with a student discount for coffee and other products. Come in and enjoy a cup of Espressoteric!",
     "image":"profilepic.jpeg",
     "maps": "maps.jpeg",
-    "bio":"We are a small local coffee shop that got inspired by a certain old kind of inside architecture. Westwood really needed a place for students to meet and hang out or even study together while having high quality coffee. ",
+    "bio":"We are a small local coffee shop that got inspired by a certain almost rustic style. Westwood really needed a place for students to meet and hang out or even study together while having high quality coffee. We are located where most of the UCLA and SMC students live so that we can serve all those hardworking students their coffee every morning on their walk to campus.",
     "contactmessage":"Get in touch with us! We are always open to new ideas and collaborations! ",
     "email": "info@espressoteric.com",
     "phone": "555-555-5555",
@@ -116,6 +116,22 @@
       {
         "title":"Espresso",
         "image":"04.jpg"
+      },
+      {
+        "title": "Matcha tea",
+        "image":"05.jpg"
+      },
+      {
+        "title": "Black Tea",
+        "image":"06.jpg"
+      },
+      {
+        "title": "Green Tea",
+        "image":"08.jpg"
+      },
+      {
+        "title": "Pastries",
+        "image":"07.jpg"
       }
     ]
   }
