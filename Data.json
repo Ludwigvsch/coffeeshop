@@ -6,10 +6,10 @@
     "image":"profilepic.jpeg",
     "maps": "maps.jpeg",
     "bio":"We are a small local coffee shop that got inspired by a certain old kind of inside architecture. Westwood really needed a place for students to meet and hang out or even study together while having high quality coffee. ",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Get in touch with us! We are always open to new ideas and collaborations! ",
     "email": "info@espressoteric.com",
     "phone": "555-555-5555",
-    "project":"",
+    "project":"ludwigvsch.github.io/coffeeshop/portfolio.html",
     "address":{
       "street":"1311 Westwood Blvd",
       "city":"Los Angeles",
@@ -21,7 +21,7 @@
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://facebook.com",
         "className":"fa fa-facebook"
       },
       {
@@ -30,19 +30,9 @@
         "className":"fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
       }
     ]
   },

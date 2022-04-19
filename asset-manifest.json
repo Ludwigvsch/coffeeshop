@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coffeeshop/static/css/main.2c7ba6f4.css",
-    "main.js": "/coffeeshop/static/js/main.2737dcf6.js",
-    "static/js/787.8dd2b5b2.chunk.js": "/coffeeshop/static/js/787.8dd2b5b2.chunk.js",
-    "index.html": "/coffeeshop/index.html",
-    "main.2c7ba6f4.css.map": "/coffeeshop/static/css/main.2c7ba6f4.css.map",
-    "main.2737dcf6.js.map": "/coffeeshop/static/js/main.2737dcf6.js.map",
-    "787.8dd2b5b2.chunk.js.map": "/coffeeshop/static/js/787.8dd2b5b2.chunk.js.map"
+    "main.css": "/https//ludwigvsch.github.io/coffeeshop/static/css/main.2c7ba6f4.css",
+    "main.js": "/https//ludwigvsch.github.io/coffeeshop/static/js/main.cf04b295.js",
+    "static/js/787.8dd2b5b2.chunk.js": "/https//ludwigvsch.github.io/coffeeshop/static/js/787.8dd2b5b2.chunk.js",
+    "index.html": "/https//ludwigvsch.github.io/coffeeshop/index.html",
+    "main.2c7ba6f4.css.map": "/https//ludwigvsch.github.io/coffeeshop/static/css/main.2c7ba6f4.css.map",
+    "main.cf04b295.js.map": "/https//ludwigvsch.github.io/coffeeshop/static/js/main.cf04b295.js.map",
+    "787.8dd2b5b2.chunk.js.map": "/https//ludwigvsch.github.io/coffeeshop/static/js/787.8dd2b5b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c7ba6f4.css",
-    "static/js/main.2737dcf6.js"
+    "static/js/main.cf04b295.js"
   ]
 }
