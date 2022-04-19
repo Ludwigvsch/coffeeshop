@@ -9,6 +9,7 @@ const images = [
   { url: "images/portfolio/01.jpg" },
   { url: "images/portfolio/02.jpg" },
   { url: "images/portfolio/03.jpg" },
+  { url: "images/portfolio/04.jpg" },
 ];
 
 
@@ -27,7 +28,7 @@ class ShowSlideshow extends React.Component {
                     images={images}
                     showBullets={true}
               showNavs={true}
-              
+
               
                   />
                 </div>

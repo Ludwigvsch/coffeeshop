@@ -47,17 +47,22 @@ class About extends Component {
                     <span>{phone}</span>
                     <br />
                     <span>{email}</span>
-                    <br />
-                    <br />
-                    <span>Hours:</span>
-                    <br />
+                   
+
+              
+                  </p>
+                </div>
+                <div className="columns download">
+                  <p>
+                  <h2>Hours:</h2>
+                    
                     <span>Monday-Friday: 9am-5pm</span>
                     <br />
                     <span>Saturday: 10am-2pm</span>
                     <br />
                     <span>Sunday: Closed</span>
                   </p>
-                </div>
+                  </div>
                 <div>
                 <iframe src={"https://www.google.com/maps/embed/v1/place?q=place_id:ChIJu18GY0m7woARJwBGwsa3N88&key=AIzaSyAtDm3Pvt2kZFB638hnHi2HRCW7hYP-6-M"} width="100%" height="450" frameborder="0" style={{border:0}} allowfullscreen></iframe>
               </div>
