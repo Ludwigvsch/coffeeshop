@@ -5,6 +5,8 @@ import React, { Component } from "react";
 import Fade from "react-reveal";
 import SimpleImageSlider from "react-simple-image-slider";
 const images = [
+  { url: "images/inside.jpeg" },
+  { url: "images/lookingoutside.webp" },
   { url: "images/portfolio/01.jpg" },
   { url: "images/portfolio/02.jpg" },
   { url: "images/portfolio/03.jpg" },
@@ -26,9 +28,11 @@ class ShowSlideshow extends React.Component {
                     height={window.innerHeight/2}
                     images={images}
                     showBullets={true}
-              showNavs={true}
-              //make size auto adjust
-              showThumbs={true}
+                    showNavs={true}
+                    loop={true}
+                    autoplay={true}
+                    autoplayInterval={5000}
+                  showThumbs={true}
 
 
               
