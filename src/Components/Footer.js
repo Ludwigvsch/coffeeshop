@@ -31,6 +31,7 @@ class Footer extends Component {
               <i className="icon-up-open"></i>
             </a>
           </div>
+          This is an unoffical wesbite made for Snap Engineering Academy by Ludwig von Schoenfeldt
         </div>
       </footer>
     );
